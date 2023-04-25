@@ -1,0 +1,2 @@
+I have performed a stress test to figure out the number of users my application can handle. I have used the following tool to perform the stress test: Locust and tested 3 different scenarios: 1. 350 users 2. 450 users 3. 550 users on different endpoints of my application.
+According to the results, my web application can handle up to 550 users at a time. No more than that. The results are shown in the pdf files located in the stress_test folder.
