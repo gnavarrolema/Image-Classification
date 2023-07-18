@@ -1,4 +1,3 @@
-# Sprint project 03
 > Flask ML API
 
 ## The Business problem
